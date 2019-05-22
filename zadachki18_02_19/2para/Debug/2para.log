@@ -1,0 +1,4 @@
+﻿  2para.cpp
+c:\users\компик\source\repos\zadachki18_02_19\2para\2para.cpp(27): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+c:\users\компик\source\repos\zadachki18_02_19\2para\2para.cpp(86): warning C4244: return: преобразование "double" в "unsigned __int64", возможна потеря данных
+  2para.vcxproj -> C:\Users\Компик\source\repos\zadachki18_02_19\Debug\2para.exe

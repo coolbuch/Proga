@@ -1,0 +1,3 @@
+﻿  01.04.19.cpp
+c:\users\компик\source\repos\proga\01.04.19\geometry.h(12): warning C4091: static : пропускается слева от "Geometry", когда ни одна переменная не объявлена
+  01.04.19.vcxproj -> C:\Users\Компик\source\repos\Proga\Debug\01.04.19.exe

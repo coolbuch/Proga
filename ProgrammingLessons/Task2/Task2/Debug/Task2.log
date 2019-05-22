@@ -1,0 +1,7 @@
+﻿  Task2.cpp
+c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(180): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(183): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(195): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(211): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\компик\source\repos\programminglessons\task2\task2\task2.cpp(227): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task2.vcxproj -> C:\Users\Компик\source\repos\ProgrammingLessons\Task2\Debug\Task2.exe

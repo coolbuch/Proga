@@ -1,0 +1,19 @@
+﻿  AlgoritmsAndStructures.cpp
+c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(37): warning C4244: аргумент: преобразование "Long" в "const unsigned int", возможна потеря данных
+c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(37): error C3867: "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::c_str": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(39): warning C4244: аргумент: преобразование "Long" в "const unsigned int", возможна потеря данных
+c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(39): error C3867: "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::c_str": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(75): error C3867: "std::vector<int,std::allocator<_Ty>>::size": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
+          with
+          [
+              _Ty=int
+          ]
+c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(75): error C2446: >: нет преобразования "int" в "unsigned int (__thiscall std::vector<int,std::allocator<_Ty>>::* )(void) noexcept const"
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(75): note: Не существует преобразований из целых значений в указатели на члены
+c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(86): warning C4552: "-": результат выражения не используется
+c:\users\компик\source\repos\proga\algoritmsandstructures\algoritmsandstructures.cpp(87): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных

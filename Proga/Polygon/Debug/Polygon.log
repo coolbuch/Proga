@@ -1,0 +1,3 @@
+﻿  Polygon.cpp
+c:\users\компик\source\repos\proga\polygon\polygon.cpp(79): warning C4715: getPointOrientation: значение возвращается не при всех путях выполнения
+  Polygon.vcxproj -> C:\Users\Компик\source\repos\Proga\Debug\Polygon.exe

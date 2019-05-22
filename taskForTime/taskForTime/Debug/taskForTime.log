@@ -1,0 +1,3 @@
+﻿  taskForTime.cpp
+c:\users\компик\source\repos\taskfortime\taskfortime\taskfortime.cpp(22): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+  taskForTime.vcxproj -> C:\Users\Компик\source\repos\taskForTime\Debug\taskForTime.exe
