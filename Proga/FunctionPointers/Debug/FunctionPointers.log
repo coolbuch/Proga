@@ -1,0 +1,4 @@
+﻿  FunctionPointers.cpp
+c:\users\компик\source\repos\proga\functionpointers\functionpointers.cpp(70): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\компик\source\repos\proga\functionpointers\functionpointers.cpp(73): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  FunctionPointers.vcxproj -> C:\Users\Компик\source\repos\Proga\Debug\FunctionPointers.exe
