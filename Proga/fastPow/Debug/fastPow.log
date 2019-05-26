@@ -1,4 +1,6 @@
-﻿  Matrix.cpp
+﻿  pch.cpp
   fastPow.cpp
+  Matrix.cpp
   Создание кода...
-  fastPow.vcxproj -> E:\Programming\Proga\Proga\Debug\fastPow.exe
+  LINK : не найден или не выполнена сборка C:\Users\Компик\source\repos\Proga\Debug\fastPow.exe при последней инкрементной компоновке; выполняется полная компоновка
+  fastPow.vcxproj -> C:\Users\Компик\source\repos\Proga\Debug\fastPow.exe
