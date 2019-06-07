@@ -1,5 +1,2 @@
-﻿  pch.cpp
-  Moon.cpp
-c:\users\компик\source\repos\proga\moon\moon.cpp(34): error C2062: тип "char" не требуется
-c:\users\компик\source\repos\proga\moon\moon.cpp(43): error C2065: res: необъявленный идентификатор
-c:\users\компик\source\repos\proga\moon\moon.cpp(47): error C2065: res: необъявленный идентификатор
+﻿  Moon.cpp
+  Moon.vcxproj -> C:\Users\Компик\source\repos\Proga\Debug\Moon.exe

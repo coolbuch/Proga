@@ -23,7 +23,7 @@
     <ClCompile Include="FunctionPointers.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\Moon\pch.cpp">
+    <ClCompile Include="..\Polygon\pch.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

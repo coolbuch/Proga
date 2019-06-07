@@ -3,12 +3,12 @@
 #define _MATRIX
 struct Matrix
 {
-	int ** data;
-	int ** newData;
+	unsigned long long ** data;
+	unsigned long long ** newData;
 	int n = 0, m = 0;
 
 public: Matrix(int n1, int m1);
-public:Matrix(int** matrix, int n1, int m1);
+public:Matrix(unsigned long long** matrix, int n1, int m1);
 public:Matrix();
 Matrix* mul(Matrix &other);
 ~Matrix();
