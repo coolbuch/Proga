@@ -1,2 +1,8 @@
 ﻿  Moon.cpp
+c:\users\компик\source\repos\proga\moon\moon.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\компик\source\repos\proga\moon\moon.cpp(184): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+c:\users\компик\source\repos\proga\moon\moon.cpp(185): warning C4305: =: усечение из "int" в "char"
+c:\users\компик\source\repos\proga\moon\moon.cpp(185): warning C4309: =: усечение константного значения
+c:\users\компик\source\repos\proga\moon\moon.cpp(202): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\компик\source\repos\proga\moon\moon.cpp(204): warning C4244: =: преобразование "double" в "float", возможна потеря данных
   Moon.vcxproj -> C:\Users\Компик\source\repos\Proga\Debug\Moon.exe
